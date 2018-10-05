@@ -15,4 +15,4 @@ c.	Dropping Variables:
 2)	Unconditional imputation (Mean, Median, Mode):
 3) Linear Regression
 4) KNN
-5) Multiple imputation 
+5) Multiple imputation
