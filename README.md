@@ -16,3 +16,5 @@ c.	Dropping Variables:
 3) Linear Regression
 4) KNN
 5) Multiple imputation
+6) Determinitic Regression
+7) using MICE Library
